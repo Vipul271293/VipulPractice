@@ -23,7 +23,7 @@ public class Interfaceclass implements EmployeeDetails,EmployeeSalarymaster{
 		// TODO Auto-generated method stub
 		
 		System.out.println("Age 28");
-		
+		System.out.println("Age 30");
 	}
 
 	@Override
