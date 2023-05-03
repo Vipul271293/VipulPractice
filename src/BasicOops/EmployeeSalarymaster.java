@@ -4,5 +4,7 @@ public interface EmployeeSalarymaster {
 	
 	public void Mothlysalary();
 	
+	
+	
 
 }

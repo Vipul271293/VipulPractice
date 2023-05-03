@@ -16,6 +16,7 @@ public class Interfaceclass implements EmployeeDetails,EmployeeSalarymaster{
 		EmployeeSalarymaster b = new Interfaceclass();
 		b.Mothlysalary();
 		
+		System.out.print(true);
 	}
 
 	@Override
