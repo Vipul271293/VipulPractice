@@ -8,7 +8,9 @@ public class VipulClass {
 		
 		System.out.println("later delete this class created to practice git");
 		
-		System.out.println();
+		System.out.println("QA Testing");
+		
+		
 
 	}
 
