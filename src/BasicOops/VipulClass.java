@@ -10,8 +10,9 @@ public class VipulClass {
 		
 		System.out.println("QA Testing");
 		
-		
+		System.out.println("VCP");
 
+		System.out.println("QA");
 	}
 
 }
