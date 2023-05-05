@@ -17,6 +17,8 @@ public class ChildInheritance extends ParentInteritance{
 		a.getdata(12, "vipul patel");
 		a.Biketype();
 		
+		
+		
 
 	}
 	
