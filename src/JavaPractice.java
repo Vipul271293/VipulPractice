@@ -7,7 +7,7 @@ public class JavaPractice {
 		
 		
 		
-		System.setProperty("WebDriver.chrome.driver", "D:\\Software\\chromedriver_win32");
+		//System.setProperty("WebDriver.chrome.driver", "D:\\Software\\chromedriver_win32");
 		
 		WebDriver driver = new ChromeDriver();
 		
