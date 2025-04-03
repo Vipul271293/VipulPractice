@@ -15,6 +15,9 @@ public class JavaPractice {
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getCurrentUrl());
 		
+		System.out.println(driver.getCurrentUrl());
+		System.out.println(driver.getCurrentUrl());
+		System.out.println(driver.getCurrentUrl());
 		driver.manage().window().maximize();
 		Thread.sleep(30000);
 		driver.close();
