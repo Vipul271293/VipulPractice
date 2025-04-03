@@ -14,7 +14,7 @@ public class JavaPractice {
 		driver.get("https://cygnet.hrinnova.com/login");
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getCurrentUrl());
-		
+		//aaa
 		System.out.println(driver.getCurrentUrl());
 		System.out.println(driver.getCurrentUrl());
 		System.out.println(driver.getCurrentUrl());
